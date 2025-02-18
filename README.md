@@ -57,6 +57,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-gif]: https://github.com/cld-kent0/DCMS/gif.gif
+[product-gif]: https://github.com/cld-kent0/DCMS/blob/main/gif.gif
 [license-shield]: https://img.shields.io/github/license/cld-kent0/DCMS?style=for-the-badge
 [license-url]: https://github.com/cld-kent0/DCMS/blob/master/LICENSE.txt
