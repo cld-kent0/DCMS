@@ -28,7 +28,7 @@
 
 ## About The Project
 
-[![DCMS][product-gif]]
+![DCMS][product-gif]
 
 **Generic Dental Clinic Management System**
 
