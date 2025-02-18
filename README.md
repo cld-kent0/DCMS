@@ -57,6 +57,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-gif]: https://github.com/cld-kent0/CaviteNest/blob/master/public/images/gif.gif
-[license-shield]: https://img.shields.io/github/license/cld-kent0/DDCMS-v1?style=for-the-badge
-[license-url]: https://github.com/cld-kent0/DCMS-v1/blob/master/LICENSE.txt
+[product-gif]: https://github.com/cld-kent0/DCMS/gif.gif
+[license-shield]: https://img.shields.io/github/license/cld-kent0/DCMS?style=for-the-badge
+[license-url]: https://github.com/cld-kent0/DCMS/blob/master/LICENSE.txt
